@@ -13,5 +13,4 @@
 ## 토큰 이코노미
 ![20180914](https://user-images.githubusercontent.com/42964972/45545877-7b4ad480-b856-11e8-8d04-a176af66c2ab.jpg)
 
-![20180914](https://user-images.githubusercontent.com/42964972/45545992-e8f70080-b856-11e8-80a3-89d3fdf4759e.jpg)
 
